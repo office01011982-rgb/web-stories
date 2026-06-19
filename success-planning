@@ -1,0 +1,513 @@
+<!doctype html>
+<html amp lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="description" content="Government Job ki taiyari ke liye Success Planning Guide — One Year Study Plan, Daily Timetable aur Goal Setting ka poora roadmap. ArsEduWorld.com">
+<title>Success Planning Guide: Government Job Ki Poori Taiyari | ArsEduWorld</title>
+<link rel="canonical" href="https://arseduworld.github.io/web-stories/success-planning.html">
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+<style amp-custom>
+  amp-story { font-family: 'Arial', sans-serif; }
+
+  .slide-bg-1 { background: linear-gradient(135deg, #1a0050 0%, #4a0080 50%, #1a6eff 100%); }
+  .slide-bg-2 { background: linear-gradient(135deg, #b71c1c 0%, #e53935 50%, #ff7043 100%); }
+  .slide-bg-3 { background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #43a047 100%); }
+  .slide-bg-4 { background: linear-gradient(135deg, #0d47a1 0%, #1565c0 50%, #1e88e5 100%); }
+  .slide-bg-5 { background: linear-gradient(135deg, #4a148c 0%, #6a1b9a 50%, #ab47bc 100%); }
+  .slide-bg-6 { background: linear-gradient(135deg, #e65100 0%, #ef6c00 50%, #ffa726 100%); }
+  .slide-bg-7 { background: linear-gradient(135deg, #006064 0%, #00838f 50%, #26c6da 100%); }
+  .slide-bg-8 { background: linear-gradient(135deg, #880e4f 0%, #ad1457 50%, #e91e63 100%); }
+  .slide-bg-9 { background: linear-gradient(135deg, #1a237e 0%, #283593 50%, #3949ab 100%); }
+  .slide-bg-10 { background: linear-gradient(135deg, #1b0050 0%, #3a0080 50%, #FFD700 100%); }
+
+  .brand-tag {
+    background: rgba(255,255,255,0.18);
+    border-radius: 20px;
+    padding: 6px 18px;
+    font-size: 13px;
+    color: #FFD700;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .slide-number {
+    background: rgba(255,215,0,0.25);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: #FFD700;
+    border: 2px solid #FFD700;
+  }
+
+  .main-title {
+    font-size: 44px;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 1.1;
+    text-align: center;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.5);
+    letter-spacing: -1px;
+  }
+
+  .gold-title {
+    font-size: 44px;
+    font-weight: 900;
+    color: #FFD700;
+    line-height: 1.1;
+    text-align: center;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.4);
+  }
+
+  .slide-heading {
+    font-size: 32px;
+    font-weight: 900;
+    color: #FFD700;
+    line-height: 1.2;
+    text-align: center;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  }
+
+  .slide-body {
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 1.55;
+    text-align: center;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.35);
+  }
+
+  .highlight-box {
+    background: rgba(255,255,255,0.12);
+    border-left: 4px solid #FFD700;
+    border-radius: 10px;
+    padding: 14px 18px;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.5;
+    text-align: left;
+    backdrop-filter: blur(4px);
+  }
+
+  .step-box {
+    background: rgba(255,215,0,0.15);
+    border: 1.5px solid rgba(255,215,0,0.5);
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+    margin: 6px 0;
+    font-weight: 700;
+  }
+
+  .badge {
+    background: #FFD700;
+    color: #1a0050;
+    border-radius: 30px;
+    padding: 8px 22px;
+    font-size: 16px;
+    font-weight: 900;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .white-card {
+    background: rgba(255,255,255,0.15);
+    border-radius: 14px;
+    padding: 16px 20px;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.25);
+  }
+
+  .divider {
+    width: 80px;
+    height: 3px;
+    background: #FFD700;
+    border-radius: 2px;
+    margin: 0 auto;
+  }
+
+  .cta-btn {
+    background: #FFD700;
+    color: #1a0050;
+    border-radius: 30px;
+    padding: 14px 32px;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+
+<body>
+<amp-story
+  standalone
+  title="Success Planning Guide: Government Job Ki Poori Taiyari"
+  publisher="ArsEduWorld"
+  publisher-logo-src="https://blogger.googleusercontent.com/img/a/AVvXsEghzYDfvcbZxcWO7P4J2iQUyR_emTPVxQYC9FhiY4FoJu7QnslcNgYgw0n5f8-xoFHNFQKd67nblXSJ6M_TrkGriyNclu243DIkjZ6jl87-6S6zsGvgAQJhzJmtGKbRqoVw8v3OqK0dlnhO-3nTZoO31kDfm1bwzJqTBGYTl3yqdnco4jKluLgCQiOXbf4=s1344"
+  poster-portrait-src="https://www.arseduworld.com/wp-content/uploads/success-planning-poster.jpg">
+
+  <!-- ═══ SOCIAL SHARE CONFIG ═══ -->
+  <amp-story-social-share layout="nodisplay">
+    <script type="application/json">[
+      {"provider": "whatsapp"},
+      {"provider": "facebook"},
+      {"provider": "twitter"},
+      {"provider": "telegram"},
+      {"provider": "email"},
+      {
+        "provider": "link",
+        "data-url": "https://www.arseduworld.com/2026/06/success-planning-web-story.html"
+      }
+    ]</script>
+  </amp-story-social-share>
+
+  <!-- ═══════════════════════════════ SLIDE 1 — COVER ═══════════════════════════════ -->
+  <amp-story-page id="cover">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-1" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:40px 28px;">
+      <div animate-in="fade-in" animate-in-duration="0.5s" style="margin-bottom:8px;">
+        <div class="brand-tag">🌐 ARSEDUWORLD.COM</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:60px;">
+        <p class="main-title">SUCCESS</p>
+        <p class="gold-title">PLANNING</p>
+        <p class="main-title">GUIDE</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.5s" style="margin:16px auto;"></div>
+      <div animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.7s">
+        <p class="slide-body" style="font-size:18px;">Government Job Ki Taiyari Ka<br><strong>Poora Roadmap</strong></p>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.9s" style="margin-top:32px;">
+        <div class="badge">👉 Swipe Karo Padhne Ke Liye</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 2 — WHY PLANNING ═══════════════════════════════ -->
+  <amp-story-page id="why-planning">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-2" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:50px 28px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">📌 Step 1 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:30px;">
+        <p class="slide-heading">Planning Kyun<br>Zaroori Hai?</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.4s" style="margin:16px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.5s" style="margin-top:16px;">
+        <div class="highlight-box">
+          💡 Bina plan ke padhna aise hai jaise bina GPS ke safar karna — energy waste hogi, manzil nahi milegi!
+        </div>
+      </div>
+      <div animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.7s" style="margin-top:20px;">
+        <p class="slide-body" style="font-size:17px;">Successful candidates aur ordinary candidates mein sirf ek fark hota hai — <strong style="color:#FFD700;">ek achha plan!</strong></p>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 3 — SMART GOAL ═══════════════════════════════ -->
+  <amp-story-page id="smart-goal">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-3" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">🎯 Step 2 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:22px;">
+        <p class="slide-heading" style="font-size:28px;">SMART Goal<br>Kaise Banaye?</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="step-box">🎯 S — Specific: Clear target rakho</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.5s">
+        <div class="step-box">📏 M — Measurable: Progress track karo</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.6s">
+        <div class="step-box">✅ A — Achievable: Realistic rakho</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="step-box">🔗 R — Relevant: Apni life se jodo</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.8s">
+        <div class="step-box">⏰ T — Time-bound: Deadline rakho</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 4 — 1 YEAR PLAN ═══════════════════════════════ -->
+  <amp-story-page id="one-year-plan">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-4" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">📅 Step 3 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:20px;">
+        <p class="slide-heading">One Year<br>Study Plan</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="white-card" style="border-left:4px solid #FFD700;text-align:left;margin:8px 0;">
+          <strong style="color:#FFD700;">Phase 1 (Month 1–4)</strong><br>
+          Foundation — NCERT, Basic Concepts
+        </div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.55s">
+        <div class="white-card" style="border-left:4px solid #81d4fa;text-align:left;margin:8px 0;">
+          <strong style="color:#81d4fa;">Phase 2 (Month 5–8)</strong><br>
+          Practice — Mock Tests, PYQ Papers
+        </div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="white-card" style="border-left:4px solid #a5d6a7;text-align:left;margin:8px 0;">
+          <strong style="color:#a5d6a7;">Phase 3 (Month 9–12)</strong><br>
+          Revision — Notes, Final Prep
+        </div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 5 — DAILY TIMETABLE ═══════════════════════════════ -->
+  <amp-story-page id="daily-timetable">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-5" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">⏰ Step 4 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:20px;">
+        <p class="slide-heading">Daily Timetable</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="step-box">🌅 5:00–7:30 AM — Maths + Reasoning</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.5s">
+        <div class="step-box">📚 8:00–12:00 PM — GS + English</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.6s">
+        <div class="step-box">📰 1:00–3:00 PM — Current Affairs</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="step-box">📝 3:30–5:30 PM — Mock Test</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.8s">
+        <div class="step-box">🔄 8:30–10:00 PM — Daily Revision</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 6 — TOP TIPS ═══════════════════════════════ -->
+  <amp-story-page id="top-tips">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-6" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">💡 Step 5 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:20px;">
+        <p class="slide-heading" style="color:#fff;">Topper Secrets<br><span style="color:#FFD700;">jo log nahi batate!</span></p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="highlight-box" style="margin:8px 0;">📔 Error Log banao — galtiyon se seekho</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.55s">
+        <div class="highlight-box" style="margin:8px 0;">🔁 Spaced Repetition se revision karo</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="highlight-box" style="margin:8px 0;">📵 Study time pe phone band rakho</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.85s">
+        <div class="highlight-box" style="margin:8px 0;">💪 Roz 30 min exercise + 7 hr neend</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 7 — AVOID MISTAKES ═══════════════════════════════ -->
+  <amp-story-page id="mistakes">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-7" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">⚠️ Step 6 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:20px;">
+        <p class="slide-heading">Yeh Galtiyan<br>Mat Karo!</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="white-card" style="margin:8px 0;border-left:4px solid #ff5252;">❌ Bina revision ke aage badhna</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.55s">
+        <div class="white-card" style="margin:8px 0;border-left:4px solid #ff5252;">❌ Doosron se comparison karna</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="white-card" style="margin:8px 0;border-left:4px solid #ff5252;">❌ Mock test analysis na karna</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.85s">
+        <div class="white-card" style="margin:8px 0;border-left:4px solid #ff5252;">❌ Exam se pehle naya topic padhna</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 8 — MOTIVATION ═══════════════════════════════ -->
+  <amp-story-page id="motivation">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-8" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:50px 28px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">🔥 Step 7 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.7s" animate-in-delay="0.2s" style="margin-top:40px;">
+        <p class="slide-heading" style="font-size:30px;">"Mehnat ka<br>koi shortcut<br>nahi hota —</p>
+        <p class="slide-heading" style="font-size:30px;color:#fff;">bas ek<br>strong plan<br>hona chahiye!"</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.6s" style="margin:20px auto;"></div>
+      <div animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.8s">
+        <p class="slide-body" style="font-size:16px;opacity:0.9;">— ArsEduWorld.com</p>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 9 — CHECKLIST ═══════════════════════════════ -->
+  <amp-story-page id="checklist">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-9" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 24px;">
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">✅ Step 8 of 8</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:20px;">
+        <p class="slide-heading">Daily Checklist</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:12px auto;"></div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <div class="step-box">☐ 8+ ghante focused padhai</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.5s">
+        <div class="step-box">☐ Current affairs padhi</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.6s">
+        <div class="step-box">☐ 50+ practice questions solve kiye</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <div class="step-box">☐ Error log update kiya</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.8s">
+        <div class="step-box">☐ 30 min exercise + 7 hr neend</div>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>
+
+
+  <!-- ═══════════════ SLIDE — FOLLOW US ═══════════════ -->
+  <amp-story-page id="follow-us">
+    <amp-story-grid-layer template="fill">
+      <div style="width:100%;height:100%;position:absolute;top:0;left:0;background:linear-gradient(135deg,#1a0050 0%,#3a0080 40%,#1a6eff 100%);"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:44px 28px;">
+
+      <div animate-in="fade-in" animate-in-duration="0.4s">
+        <div class="brand-tag">🌟 Follow Us!</div>
+      </div>
+
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.2s" style="margin-top:24px;">
+        <p class="slide-heading" style="font-size:30px;">Hame Follow<br>Karo!</p>
+        <p class="slide-body" style="font-size:15px;margin-top:8px;">Latest Updates sabse pehle pao</p>
+      </div>
+
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.3s" style="margin:16px auto;"></div>
+
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.4s">
+        <a href="https://www.facebook.com/profile.php?id=61590516243075"
+           style="display:flex;align-items:center;gap:14px;background:#1877f2;border-radius:12px;padding:14px 18px;text-decoration:none;margin:8px 0;">
+          <span style="font-size:28px;">f</span>
+          <span style="color:#fff;font-size:17px;font-weight:700;">Facebook pe Follow Karo</span>
+        </a>
+      </div>
+
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.55s">
+        <a href="https://www.arseduworld.com"
+           style="display:flex;align-items:center;gap:14px;background:rgba(255,215,0,0.2);border:2px solid #FFD700;border-radius:12px;padding:14px 18px;text-decoration:none;margin:8px 0;">
+          <span style="font-size:24px;">🌐</span>
+          <span style="color:#FFD700;font-size:17px;font-weight:700;">Website Visit Karo</span>
+        </a>
+      </div>
+
+      <div animate-in="fly-in-bottom" animate-in-duration="0.5s" animate-in-delay="0.7s">
+        <a href="https://www.blogger.com/follow-blog.g?blogID=7843495000855025735"
+           style="display:flex;align-items:center;gap:14px;background:rgba(255,255,255,0.12);border:1.5px solid rgba(255,255,255,0.3);border-radius:12px;padding:14px 18px;text-decoration:none;margin:8px 0;">
+          <span style="font-size:24px;">🔔</span>
+          <span style="color:#fff;font-size:17px;font-weight:700;">Subscribe for Updates</span>
+        </a>
+      </div>
+
+    </amp-story-grid-layer>
+    <amp-story-page-outlink layout="nodisplay">
+      <a href="https://www.arseduworld.com" title="ArsEduWorld — Follow Us">ArsEduWorld Follow Karo</a>
+    </amp-story-page-outlink>
+  </amp-story-page>
+
+  <!-- ═══════════════════════════════ SLIDE 10 — END / CTA ═══════════════════════════════ -->
+  <amp-story-page id="end-cta">
+    <amp-story-grid-layer template="fill">
+      <div class="slide-bg-10" style="width:100%;height:100%;position:absolute;top:0;left:0;"></div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" style="padding:50px 28px;">
+      <div animate-in="fade-in" animate-in-duration="0.5s" style="margin-bottom:16px;">
+        <div class="brand-tag">🏁 All Done!</div>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.7s" animate-in-delay="0.3s" style="margin-top:30px;">
+        <p class="main-title" style="font-size:36px;">Ab Shuru Karo!</p>
+        <p class="gold-title" style="font-size:28px;margin-top:8px;">Aaj Se — Abhi Se!</p>
+      </div>
+      <div class="divider" animate-in="fade-in" animate-in-duration="0.4s" animate-in-delay="0.6s" style="margin:20px auto;"></div>
+      <div animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.8s">
+        <p class="slide-body" style="font-size:17px;">Poori guide padhne ke liye visit karo:</p>
+      </div>
+      <div animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="1s" style="margin-top:24px;">
+        <a href="https://www.arseduworld.com" class="cta-btn">🌐 ArsEduWorld.com</a>
+      </div>
+      <div animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="1.2s" style="margin-top:20px;">
+        <p class="slide-body" style="font-size:15px;opacity:0.8;">Latest Jobs | Results | Scholarship | Admit Card</p>
+      </div>
+    </amp-story-grid-layer>
+    <amp-story-page-outlink layout="nodisplay">
+      <a href="https://arseduworld.github.io/web-stories/success-planning.html" title="Success Planning Guide — Full Article">Poora Article Padho</a>
+    </amp-story-page-outlink>
+  </amp-story-page>
+
+</amp-story>
+</body>
+</html>
